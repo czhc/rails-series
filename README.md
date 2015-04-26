@@ -31,8 +31,8 @@ By the end of the class, students are expected to:
 Class | Skills/Knowledge to Cover
 ------|------------------
 1  |  Intro; Rails project structure; Controllers I; Views I; Portfolio app I; Deployment
-2 | Database and Migration; Models I; Blog I
-3 | Controllers II; Views II; Forms; Blog II
+2 | Models I; Blog I
+3 | Database and Migration; Controllers II; Views II; Forms; Blog II
 4 | Model II; Twitter clone I
 5 | Partials and Helpers; Assets; Twitter clone II
 6 | Twitter clone III
